@@ -1,0 +1,29 @@
+
+
+install.packages("igraph")
+# installiert das Paket igraph
+install.packages("igraphdata")
+# installiert das Paket igraphdata
+library("igraph")
+# Einlesen der Edgelist aus github link: beachte den Separator ","
+edges <- read.csv("https://raw.githubusercontent.com/chiaraviviane/Springer-Netzwerk/master/Edgelist.csv?token=As-EKzGIdwV3ftbYfCh4QhozT5eL0oq0ks5cUKSdwA%3D%3D", header=T, as.is=T, sep = ",")
+# Einlesen der Nodelist
+nodes <- read.csv("https://raw.githubusercontent.com/chiaraviviane/Springer-Netzwerk/master/Nodelist.csv?token=As-EK5Ndvdc6Y-qUcEEakCaagPyAJQC9ks5cUKWwwA%3D%3D", header=T, as.is=T, sep = ",")
+# Überprüfen der Daten
+head(edges)
+head(nodes)
+# wandelt die Edgelist als Matrix um.
+edgematrix <-as.matrix(edges)
+# ?graph_from_data_frame (erläutert den Befehl genauer)
+# erstellt ein igraph-objekt aus der Fusion von Edge- und Nodelist
+springer <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=T)
+# das igraph-Objekt heisst jetzt "s" (für springer) und ist ein gerichtetes Netzwerk.
+springer
+
+# Visualisierung
+
+plot(springer,
+     edge.arrow.size=.3,
+     layout=layout_with_kk,
+     main="Pretest Axel Springer Netzwerk",
+     sub="Interlocking Relationships, n=2 Fälle")
