@@ -1,0 +1,157 @@
+id,name,type,sex,age,education
+AA,"American Academy, Berlin",2,99,99,99
+AH,AccorHotels,2,99,99,99
+AHP,American Hospital of Paris,2,99,99,99
+AI,General Council of Aspen Institut Italia,2,99,99,99
+AJC,American Jewish Committee,2,99,99,99
+AL,Allianz Lebensversicherung AG,2,99,99,99
+AP,Deutsche Gesellschaft für Auswärtige Politik,2,99,99,99
+AS,Allianz SpA,2,99,99,99
+ASDCF,"Axel Springer Digital Classifieds France SAS, Frankreich",2,99,99,99
+ASG,Axel Springer Gesellschaft für Publizistik GmbH & Co,2,99,99,99
+ASS,Axel Springer Stiftung,2,99,99,99
+AUG,Augusta,2,99,99,99
+AW,Akademie Wort,2,99,99,99
+AWI,AWIN AG,2,99,99,99
+AxSp,Axel Springer,1,1,99,5
+BA,Barilla SpA,2,99,99,99
+Bayer,Jan Bayer,1,1,49,1
+BBA,Förderverein der Berlin-Brandenburgischen Akademie der Wissenschaften,2,99,99,99
+BDZ,Bundesverband Deutscher Zeitungsverleger,2,99,99,99
+BHF,BHF Kleinwort Benson Group SA,2,99,99,99
+BHW,Bayrische Hypotheken und Wechselbank AG,2,99,99,99
+BI,"Business Insider  Inc., USA",2,99,99,99
+BILD,BILD Gruppe,2,99,99,99
+BK,Bilderberg-Konferenz,2,99,99,99
+BL,Gruppa Banco Leonardo,2,99,99,99
+BLS,Berthold Leibinger-Stiftung,2,99,99,99
+BMP,Berliner Morgenpost,2,99,99,99
+BMW,BMW,2,99,99,99
+BS,Bayrische Staatsregierung,2,99,99,99
+BSS,Banco Leonardo S.A. Stiftung,2,99,99,99
+BW,Bauwert AG,2,99,99,99
+BZ,Braunschweiger Zeitung,2,99,99,99
+CaM,Capital Magazin,2,99,99,99
+Caspar,Stephanie Caspar,1,2,46,3
+CBMF,"Car & Boat Media SAS, Frankreich",2,99,99,99
+CDU,CDU,2,99,99,99
+CFR,Council on Foreign Relations,2,99,99,99
+ClM,Classifieds Media,2,99,99,99
+CO,Continental AG,2,99,99,99
+COMT,"CompuTel Telefonservice AG, Schweiz",2,99,99,99
+CTI,"Coral-Tell Ltd., Israel",2,99,99,99
+DB,Deutsche Bank Italia,2,99,99,99
+DC,Dahler & Company Group,2,99,99,99
+DE,Deutz AG,2,99,99,99
+Deutz,Dr. Julian Deutz,1,1,51,3
+DG,Deutsche Gesellschaft,2,99,99,99
+DH,Dermapharm Holding SE,2,99,99,99
+DHB,Deutsches Herzzentrum Berlin,2,99,99,99
+DM,Deutsches Museum,2,99,99,99
+DN,Deutsche Nationalstiftung,2,99,99,99
+Doepfner,Dr. Mathias Döpfner,1,1,56,3
+DS,Dussman Stiftung,2,99,99,99
+DTV,"Dogan TV Holding A.S., Türkei",2,99,99,99
+DUS,Dussman AG&Co KGaA,2,99,99,99
+DW,DIE WELT,2,99,99,99
+EBAY,EBAY,2,99,99,99
+EC,Economist,2,99,99,99
+ECM,Elvaston Capital Management GmbH,2,99,99,99
+ED,Evonik Degussa,2,99,99,99
+eM,"eMarketer Inc., USA",2,99,99,99
+EPC,European Publishers Council,2,99,99,99
+FCM,Family Circle Magazin,2,99,99,99
+FFDSO,Freunde und Förderer der Deutschen Staatsoper,2,99,99,99
+FL,Freundeskreis Luther,2,99,99,99
+FO,Ford,2,99,99,99
+FON,FON,2,99,99,99
+FPSG,Freunde der Preußischen Schlösser und Gärten,2,99,99,99
+FriedeSpringer,Friede Springer,1,2,76,5
+FSHS,Friede Springer Herz Stiftung,2,99,99,99
+FSS,Friede Springer Stiftung,2,99,99,99
+FW,Fon Wireless,2,99,99,99
+GE,Gerling Versicherung,2,99,99,99
+GEO,Geo Magazin,2,99,99,99
+GJ,Gruner + Jahr,2,99,99,99
+HOME,Home24,2,99,99,99
+HAB,Hamburger Abendbaltt,2,99,99,99
+HAW,Hawesko,2,99,99,99
+HB,Hugo Boss AG,2,99,99,99
+HE,Herlitz AG,2,99,99,99
+Heine,Oliver Heine,1,1,57,2
+HMP,Hamburger Morgenpost,2,99,99,99
+HP,Heine & Partner,2,99,99,99
+HSB,HSB Hypo Service Bank AG,2,99,99,99
+HU,Humanitas SpA,2,99,99,99
+HVA,HVA Grundbesitz KG,2,99,99,99
+IMMO,"Immoweb SA, Belgien",2,99,99,99
+IMMOD,Immowelt AG,2,99,99,99
+IMS,Immobilienscout24,2,99,99,99
+ISIP,Istituto per gli Studi di Politica Internazionale,2,99,99,99
+IV,Ivoclar Vivadent AG,2,99,99,99
+JF,"Jean Frey AG, Schweiz",2,99,99,99
+JT,Jazztel Telecomunicaciones,2,99,99,99
+KAB,Kinnevik AB,2,99,99,99
+Karp,Alexander Karp,1,1,52,3
+Knobloch,Iris Knobloch,1,2,99,2
+LA,Deutsches Literaturarchiv,2,99,99,99
+LAC,Lange Assets & Consulting GmbH,2,99,99,99
+LaHo,LafargeHolcim,2,99,99,99
+Lanz,Lothar Lanz,1,1,71,1
+LAZ,Lazard,2,99,99,99
+LBBW,Landesbank Baden-Württemberg,2,99,99,99
+LEI,"@Leisure Holding B.V., Niederlande",2,99,99,99
+Leibinger-Kammueller,Dr. Nicola Leibinger-Kammüller,1,2,59,3
+LIN,Linde AG,2,99,99,99
+MAG,"Magnolia AG, Schweiz",2,99,99,99
+MCM,Mc Call's Magazin,2,99,99,99
+MeSt,meinestadt.de GmbH,2,99,99,99
+Mews,Mews GmbH & Co. KG seit 2009,2,99,99,99
+MIG,Media Impact Gmbh & Co.KG ,2,99,99,99
+MKS,McKinsey,2,99,99,99
+MP,Medical Park AG,2,99,99,99
+MPO,Mirapodo,2,99,99,99
+Net,Netflix  Inc.,2,99,99,99
+NS,Nassauische Sparkasse,2,99,99,99
+OL,Overture Life,2,99,99,99
+ONET,"ONET S.A. , Polen",2,99,99,99
+PF,Prelude Fertitiy ,2,99,99,99
+PI,Pirelli SpA,2,99,99,99
+PSM,ProSiebenSat. 1 Media AG,2,99,99,99
+PT,Palantir Technologies,2,99,99,99
+RAS,"Ringier Axel Springer AG, Schweiz",2,99,99,99
+RCS,RCS MediaGroup,2,99,99,99
+Reitzle,Prof. Dr.-Ing. Wolfgang Reitzle,1,1,69,4
+RK,Robert-Koch-Stiftung,2,99,99,99
+RZH,Regionalzeitungsgruppe Hamburg,2,99,99,99
+SC,Schering AG,2,99,99,99
+SeL,"SeLoger.com SAS, Frankreich",2,99,99,99
+SIE,Siemens AG,2,99,99,99
+Springer,Axel Springer SE,2,99,99,99
+STE,Steilmann SE,2,99,99,99
+StSt,StepStone GmbH,2,99,99,99
+SV,Stifterverband,2,99,99,99
+SZ,Süddeutsche Zeitung ,2,99,99,99
+TAG,TAG Immobilien AG,2,99,99,99
+TEX,TEX’S BAR-B-Q,2,99,99,99
+TK,Trilaterale Kommision,2,99,99,99
+TR,Trumpf GmbH + Co. KG,2,99,99,99
+TW,Time Warners,2,99,99,99
+UC,UniCredit SpA,2,99,99,99
+UZH,Universität zu Hamburg,2,99,99,99
+VA,Vattenfall Europe AG,2,99,99,99
+Varsavsky,Martin Varsavsky,1,1,59,2
+VG,Vodafone Group Public Limited Company,2,99,99,99
+Vita,Dr. Guiseppe Vita,1,1,83,3
+VO,Voith GmbH,2,99,99,99
+VSM,Volksstimme Magdeburg,2,99,99,99
+VVIM,Visoon Video Impact Management GmbH,2,99,99,99
+WB,Willy Bogner GmbH & Co. KGaA,2,99,99,99
+WBE,Warner Bros. Entertainment (Frankreich),2,99,99,99
+Wiele,Dr. Andreas Wiele,1,1,57,3
+WM,WarnerMedia,2,99,99,99
+WMG,"Warner Music Group, USA",2,99,99,99
+WP,Berliner Wochenpost,2,99,99,99
+YAC,Yacom,2,99,99,99
+YA,YooApplications AG,2,99,99,99
+ZS,Zalando SE,2,99,99,99
