@@ -1,0 +1,254 @@
+id,name,name_2,type,sex,age,education,media
+AA,"American Academy, Berlin",AA,2,99,99,99,2
+AH,AccorHotels,AH,2,99,99,99,2
+AHP,American Hospital of Paris,AHP,2,99,99,99,2
+AI,General Council of Aspen Institut Italia,AI,2,99,99,99,2
+AJC,American Jewish Committee,AJC,2,99,99,99,2
+AL,Allianz Lebensversicherung AG,AL,2,99,99,99,2
+AP,Deutsche Gesellschaft für Auswärtige Politik,AP,2,99,99,99,2
+AS,Allianz SpA,AS,2,99,99,99,2
+ASDCF,"Axel Springer Digital Classifieds France SAS, Frankreich",ASDCF,2,99,99,99,2
+ASG,Axel Springer Gesellschaft für Publizistik GmbH & Co,ASG,2,99,99,99,2
+ASS,Axel Springer Stiftung,ASS,2,99,99,99,2
+AUG,Augusta,AUG,2,99,99,99,2
+AW,Akademie Wort,AW,2,99,99,99,2
+AWI,AWIN AG,AWI,2,99,99,99,2
+AxSp,Axel Springer,AxSp,1,1,99,5,2
+BA,Barilla SpA,BA,2,99,99,99,2
+Bayer,Jan Bayer,Bayer,1,1,49,1,99
+BBA,Förderverein der Berlin-Brandenburgischen Akademie der Wissenschaften,BBA,2,99,99,99,2
+BDZ,Bundesverband Deutscher Zeitungsverleger,BDZ,2,99,99,99,2
+BHF,BHF Kleinwort Benson Group SA,BHF,2,99,99,99,2
+BHW,Bayrische Hypotheken und Wechselbank AG,BHW,2,99,99,99,2
+BI,"Business Insider  Inc., USA",BI,2,99,99,99,3
+BILD,BILD Gruppe,BILD,2,99,99,99,3
+BK,Bilderberg-Konferenz,BK,2,99,99,99,2
+BL,Gruppa Banco Leonardo,BL,2,99,99,99,2
+BLS,Berthold Leibinger-Stiftung,BLS,2,99,99,99,2
+BMP,Berliner Morgenpost,BMP,2,99,99,99,1
+BMW,BMW,BMW,2,99,99,99,2
+BS,Bayrische Staatsregierung,BS,2,99,99,99,2
+BSS,Banco Leonardo S.A. Stiftung,BSS,2,99,99,99,2
+BW,Bauwert AG,BW,2,99,99,99,2
+BZ,Braunschweiger Zeitung,BZ,2,99,99,99,1
+CaM,Capital Magazin,CaM,2,99,99,99,1
+Caspar,Stephanie Caspar,Caspar,1,2,46,3,99
+CBMF,"Car & Boat Media SAS, Frankreich",CBMF,2,99,99,99,3
+CDU,CDU,CDU,2,99,99,99,2
+CFR,Council on Foreign Relations,CFR,2,99,99,99,2
+ClM,Classifieds Media,ClM,2,99,99,99,3
+CO,Continental AG,CO,2,99,99,99,2
+COMT,"CompuTel Telefonservice AG, Schweiz",COMT,2,99,99,99,2
+CTI,"Coral-Tell Ltd., Israel",CTI,2,99,99,99,2
+DB,Deutsche Bank Italia,DB,2,99,99,99,2
+DCG,Dahler & Company Group,DCG,2,99,99,99,2
+DE,Deutz AG,DE,2,99,99,99,2
+Deutz,Dr. Julian Deutz,Deutz,1,1,51,3,99
+DG,Deutsche Gesellschaft,DG,2,99,99,99,2
+DH,Dermapharm Holding SE,DH,2,99,99,99,2
+DHB,Deutsches Herzzentrum Berlin,DHB,2,99,99,99,2
+DM,Deutsches Museum,DM,2,99,99,99,2
+DN,Deutsche Nationalstiftung,DN,2,99,99,99,2
+Doepfner,Dr. Mathias Döpfner,Doepfner,1,1,56,3,99
+DS,Dussman Stiftung,DS,2,99,99,99,2
+DTV,"Dogan TV Holding A.S., Türkei",DTV,2,99,99,99,1
+DUS,Dussman AG&Co KGaA,DUS,2,99,99,99,2
+DW,DIE WELT,DW,2,99,99,99,3
+EBAY,EBAY,EBAY,2,99,99,99,2
+EC,Economist,EC,2,99,99,99,1
+ECM,Elvaston Capital Management GmbH,ECM,2,99,99,99,2
+ED,Evonik Degussa,ED,2,99,99,99,2
+eM,EMarketer,eM,2,99,99,99,3
+EPC,European Publishers Council,EPC,2,99,99,99,2
+FCM,Family Circle Magazin,FCM,2,99,99,99,2
+FFDSO,Freunde und Förderer der Deutschen Staatsoper,FFDSO,2,99,99,99,2
+FL,Freundeskreis Luther,FL,2,99,99,99,2
+FO,Ford,FO,2,99,99,99,2
+FON,FON,FON,2,99,99,99,2
+FPSG,Freunde der Preußischen Schlösser und Gärten,FPSG,2,99,99,99,2
+FriedeSpringer,Friede Springer,FriedeSpringer,1,2,76,5,99
+FSHS,Friede Springer Herz Stiftung,FSHS,2,99,99,99,2
+FSS,Friede Springer Stiftung,FSS,2,99,99,99,2
+FW,Fon Wireless,FW,2,99,99,99,2
+GE,Gerling Versicherung,GE,2,99,99,99,2
+GEO,Geo Magazin,GEO,2,99,99,99,1
+GJ,Gruner + Jahr,GJ,2,99,99,99,1
+HOME,Home24,HOME,2,99,99,99,2
+HAB,Hamburger Abendbaltt,HAB,2,99,99,99,1
+HAW,Hawesko,HAW,2,99,99,99,2
+HB,Hugo Boss AG,HB,2,99,99,99,2
+HE,Herlitz AG,HE,2,99,99,99,2
+Heine,Oliver Heine,Heine,1,1,57,2,99
+HMP,Hamburger Morgenpost,HMP,2,99,99,99,1
+HP,Heine & Partner,HP,2,99,99,99,2
+HSB,HSB Hypo Service Bank AG,HSB,2,99,99,99,2
+HU,Humanitas SpA,HU,2,99,99,99,2
+HVA,HVA Grundbesitz KG,HVA,2,99,99,99,2
+IMMO,"Immoweb SA, Belgien",IMMO,2,99,99,99,2
+IMMOD,Immowelt AG,IMMOD,2,99,99,99,2
+IMS,Immobilienscout24,IMS,2,99,99,99,2
+ISIP,Istituto per gli Studi di Politica Internazionale,ISIP,2,99,99,99,2
+IV,Ivoclar Vivadent AG,IV,2,99,99,99,2
+JF,"Jean Frey AG, Schweiz",JF,2,99,99,99,2
+JT,Jazztel Telecomunicaciones,JT,2,99,99,99,2
+KAB,Kinnevik AB,KAB,2,99,99,99,2
+Karp,Alexander Karp,Karp,1,1,52,3,99
+Knobloch,Iris Knobloch,Knobloch,1,2,99,2,99
+LA,Deutsches Literaturarchiv,LA,2,99,99,99,2
+LAC,Lange Assets & Consulting GmbH,LAC,2,99,99,99,2
+LaHo,LafargeHolcim,LaHo,2,99,99,99,2
+Lanz,Lothar Lanz,Lanz,1,1,71,1,99
+LAZ,Lazard,LAZ,2,99,99,99,2
+LBBW,Landesbank Baden-Württemberg,LBBW,2,99,99,99,2
+LEI,"@Leisure Holding B.V., Niederlande",LEI,2,99,99,99,2
+Leibinger-Kammueller,Dr. Nicola Leibinger-Kammüller,Leibinger-Kammueller,1,2,59,3,99
+LIN,Linde AG,LIN,2,99,99,99,2
+MAG,"Magnolia AG, Schweiz",MAG,2,99,99,99,2
+MCM,Mc Call's Magazin,MCM,2,99,99,99,1
+MeSt,meinestadt.de GmbH,MeSt,2,99,99,99,2
+Mews,Mews GmbH & Co. KG seit 2009,Mews,2,99,99,99,2
+MIG,Media Impact Gmbh & Co.KG ,MIG,2,99,99,99,3
+MKS,McKinsey,MKS,2,99,99,99,2
+MP,Medical Park AG,MP,2,99,99,99,2
+MPO,Mirapodo,MPO,2,99,99,99,2
+Net,Netflix  Inc.,Net,2,99,99,99,1
+NS,Nassauische Sparkasse,NS,2,99,99,99,2
+OL,Overture Life,OL,2,99,99,99,2
+ONET,"ONET S.A. , Polen",ONET,2,99,99,99,2
+PF,Prelude Fertitiy ,PF,2,99,99,99,2
+PI,Pirelli SpA,PI,2,99,99,99,2
+PSM,ProSiebenSat. 1 Media AG,PSM,2,99,99,99,1
+PT,Palantir Technologies,PT,2,99,99,99,2
+RAS,"Ringier Axel Springer AG, Schweiz",RAS,2,99,99,99,3
+RCS,RCS MediaGroup,RCS,2,99,99,99,2
+Reitzle,Prof. Dr.-Ing. Wolfgang Reitzle,Reitzle,1,1,69,4,99
+RK,Robert-Koch-Stiftung,RK,2,99,99,99,2
+RZH,Regionalzeitungsgruppe Hamburg,RZH,2,99,99,99,3
+SC,Schering AG,SC,2,99,99,99,2
+SeL,"SeLoger.com SAS, Frankreich",SeL,2,99,99,99,3
+SIEM,Siemens AG,SIEM,2,99,99,99,2
+Springer,Axel Springer SE,Springer,2,99,99,99,3
+STE,Steilmann SE,STE,2,99,99,99,2
+StSt,StepStone GmbH,StSt,2,99,99,99,2
+SV,Stifterverband,SV,2,99,99,99,2
+SZ,Süddeutsche Zeitung ,SZ,2,99,99,99,1
+TAG,TAG Immobilien AG,TAG,2,99,99,99,2
+TEX,TEX’S BAR-B-Q,TEX,2,99,99,99,2
+TK,Trilaterale Kommision,TK,2,99,99,99,2
+TR,Trumpf GmbH + Co. KG,TR,2,99,99,99,2
+UC,UniCredit SpA,UC,2,99,99,99,2
+UZH,Universität zu Hamburg,UZH,2,99,99,99,2
+VA,Vattenfall Europe AG,VA,2,99,99,99,2
+Varsavsky,Martin Varsavsky,Varsavsky,1,1,59,2,99
+VG,Vodafone Group Public Limited Company,VG,2,99,99,99,2
+Vita,Dr. Guiseppe Vita,Vita,1,1,83,3,99
+VO,Voith GmbH,VO,2,99,99,99,2
+VSM,Volksstimme Magdeburg,VSM,2,99,99,99,2
+VVIM,Visoon Video Impact Management GmbH,VVIM,2,99,99,99,3
+WB,Willy Bogner GmbH & Co. KGaA,WB,2,99,99,99,2
+WBE,Warner Bros. Entertainment (Frankreich),WBE,2,99,99,99,1
+Wiele,Dr. Andreas Wiele,Wiele,1,1,57,3,99
+WM,WarnerMedia,WM,2,99,99,99,1
+WMG,"Warner Music Group, USA",WMG,2,99,99,99,1
+WP,Berliner Wochenpost,WP,2,99,99,99,1
+YAC,Yacom,YAC,2,99,99,99,2
+YA,YooApplications AG,YA,2,99,99,99,2
+ZS,Zalando SE,ZS,2,99,99,99,2
+Buechi,Ralph Büchi,Buechi,1,1,62,1,99
+Walder,Marc Walder,Walder,1,1,53,5,99
+HAZE,Handelszeitung,HAZE,2,99,99,99,3
+POLMA,Politico Magazin,POLMA,2,99,99,99,1
+RING,Ringier AG Schweiz,RING,2,99,99,99,1
+SCT,Scout24 AG CH,SCT,2,99,99,99,2
+ADM,Admeira AG,ADM,2,99,99,99,2
+RIAF,Ringier Afrika AG,RIAF,2,99,99,99,1
+JOCL,JobCloud AG,JOCL,2,99,99,99,2
+TICO,Ticketcorner AG,TICO,2,99,99,99,2
+Blodget,Henry Blodget,Blodget,1,1,53,1,99
+HM,Harper`s Magazine,HM,2,99,99,99,1
+OPP,Oppenheimer&Co.,OPP,2,99,99,99,2
+ML,Merill Lynch,ML,2,99,99,99,2
+CHR,Cherry Hill Research,CHR,2,99,99,99,2
+Ryan,Kevin P. Ryan,Ryan,1,1,99,2,99
+DC,DoubleClick,DC,2,99,99,99,2
+AC,Alley Corp,AC,2,99,99,99,1
+HRW,Human Rights Watch,HRW,2,99,99,99,2
+NYIF,The NYC Investment Fund,NYIF,2,99,99,99,2
+INS,INSEAD (Business School),INS,2,99,99,99,2
+YU,Yale University,YU,2,99,99,99,2
+YIC,Yale International Council,YIC,2,99,99,99,2
+GG,Gilt Group,GG,2,99,99,99,2
+MO,Mongo DB,MO,2,99,99,99,2
+Merriman,Dwight Merriman,Merriman,1,1,99,1,99
+Schwecke,Carsten Schwecke,Schwecke,1,1,43,1,99
+TRZ,Travelzoo,TRZ,2,99,99,99,2
+IDMM,IQ Digital Media Marketing,IDMM,2,99,99,99,1
+Hermann,Ralf Hermann,Hermann,1,1,53,1,99
+Sakowski,Daniela Sakowski,Sakowski,1,2,62,99,99
+FZM,FUNKE Zeitschriften Marketing GmbH,FZM,2,99,99,99,1
+Wehrle,Julia Wehrle,Wehrle,1,2,37,1,99
+Madel,Stephan Madel,Madel,1,1,48,5,99
+WZ,Westdeutsche Zeitung,WZ,2,99,99,99,1
+Doering,Knut Doering,Doering,1,1,46,1,99
+BTO,Bild.T-Online.de AG,BTO,2,99,99,99,1
+Christiansen,Tim Christiansen,Christiansen,1,1,36,2,99
+BASF,BASF SE,BASF,2,99,99,99,2
+SVG,SevenVentures GmbH,SVG,2,99,99,99,2
+Moelling,Stefan Moelling,Moelling,1,1,39,1,99
+RMS,RMS Radio Marketing Service GmbH ,RMS,2,99,99,99,1
+Schoenwandt,Matthias Schoenwandt,Schoenwandt,1,1,53,99,99
+Dekan,Mark Dekan,Dekan,1,1,99,2,99
+Jasvoin,Elena Jasvoin,Jasvoin,1,2,40,99,99
+ZEPP,Zeppelin Holding,ZEPP,2,99,99,99,2
+RCIS,Russia & CIS,RCIS,2,99,99,99,2
+Kutela,Aleksander Kutela,Kutela,1,1,43,2,99
+HBO,Home Box Office,HBO,2,99,99,99,1
+Protic,Jovan Protic,Protic,1,1,99,2,99
+JBayer,Dr. József Bayer,JBayer,1,1,99,2,99
+Dubec,Milan Dubec,Dubec,1,1,38,2,99
+Palmer,Ezra Palmer,Palmer,1,1,99,1,99
+YAH,Yahoo!,YAH,2,99,99,99,1
+LAPC,Los Angeles Press Club,LAPC,2,99,99,99,1
+WWO,Westwood One,WWO,2,99,99,99,2
+WSJ,The Wall Street Journal,WSJ,2,99,99,99,1
+WO,work.com,WO,2,99,99,99,2
+Hagan,Jamel Hagan,Hagan,1,1,99,1,99
+FOCAS,Friends of County Animal Shelters,FOCAS,2,99,99,99,2
+FBC,First Baptish Church of Teaneck,FBC,2,99,99,99,2
+SSB,Salomon Smith Barney,SSB,2,99,99,99,2
+IDME,Idearc Media,IDME,2,99,99,99,1
+ADP,ADP,ADP,2,99,99,99,2
+YO,Yodle,YO,2,99,99,99,1
+CBSR,CBS Radio,CBSR,2,99,99,99,1
+HAY,"haystagg, Inc.",HAY,2,99,99,99,2
+CPA,Cerebral Palsy Alliance,CPA,2,99,99,99,2
+XPERT,XpertHR USA,XPERT,2,99,99,99,1
+EXP,Experiture,EXP,2,99,99,99,2
+Meyer,Elle Meyer,Meyer,1,2,99,1,99
+FOBA,Food Bank For New York,FOBA,2,99,99,99,2
+NYC,New York Cares,NYC,2,99,99,99,2
+AMNY,amNewYork,AMNY,2,99,99,99,1
+NYP,New York Post,NYP,2,99,99,99,1
+LIAS,Library Associate,LIAS,2,99,99,99,2
+Rotondo,Amy Rotondo,Rotondo,1,2,99,2,99
+MOFA,Musem of Fine Arts Boston,MOFA,2,99,99,99,2
+Weiss,Andrea M. Weiss,Weiss,1,2,99,1,99
+MOST,Morgan Stanley,MOST,2,99,99,99,2
+KPMG,KPMG,KPMG,2,99,99,99,2
+FSRS,FactSet Research Systems,FSRS,2,99,99,99,2
+Kats,Rimma Kats,Kats,1,2,99,1,99
+MOMA,Mobile Marketer,MOMA,2,99,99,99,1
+Adams,Sherry Adams,Adams,1,2,99,1,99
+SAR,Sarbakan,SAR,2,99,99,99,1
+STN,Showtime Networks,STN,2,99,99,99,1
+COMSYS,COMSYS,COMSYS,2,99,99,99,1
+Baumann,Ralf Baumann ,Baumann,1,1,61,99,99
+SSA,SSA,SSA,2,99,99,99,2
+SIE,Siebel,SIE,2,99,99,99,2
+PESO,PeopleSoft GmbH,PESO,2,99,99,99,2
+Dettmers,Dr. Sebastian Dettmers,Dettmers,1,1,40,3,99
+WGMU,Wissenschaftliche Gesellschaft für Marketing und Unternehmensführung,WGMU,2,99,99,99,2
+Reif,Simone Reif ,Reif,1,2,51,99,99
+COM,Comcity AG,COM,2,99,99,99,2
+PRO,Provinzial Versicherung Kiel,PRO,2,99,99,99,2
+DIM,Dimexx GmbH,DIM,2,99,99,99,99
